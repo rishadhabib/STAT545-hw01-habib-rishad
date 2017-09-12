@@ -1,2 +1,2 @@
-# STAT545-hw01-habib-rishad
+# Rishad Habib
 ### welcome STAT545 instructor/TAs and STAT545 peers
