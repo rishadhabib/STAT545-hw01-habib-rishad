@@ -13,4 +13,4 @@ I am a
 
 
 
-![alt text] (http://www.phdcomics.com/comics/archive/phd083109s.gif "maybe this is why I'm always running to morning classes?")
+![] (http://www.phdcomics.com/comics/archive/phd083109s.gif)
