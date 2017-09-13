@@ -14,4 +14,3 @@ I am a
 
 
 ![](http://www.phdcomics.com/comics/archive/phd083109s.gif)
-![](http://i.imgur.com/60bts.gif)
