@@ -5,7 +5,7 @@ I am a
 - PhD student :bar_chart:
 - in **marketing** :dollar:
 - studying **consumer behaviour** :thought_balloon:
-  + morality in decision making
+  + morality in decision making :smiley:
   + prosocial consumption
   
   
