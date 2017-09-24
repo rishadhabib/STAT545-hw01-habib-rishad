@@ -18,7 +18,7 @@ I am a
 
 
 
-####Reporting my process:
+#### Reporting my process:
 - I started a new homework project
 - where I cloned my github repo
 - edited locally  
